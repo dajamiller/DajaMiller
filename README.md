@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+🌱 I’m currently learning Java!
+
+
+⚡ Fun fact: I love to baking and making pottery
+
+📫 How to reach me: 
 <!--
 **dajamiller/DajaMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
