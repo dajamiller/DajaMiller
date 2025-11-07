@@ -4,7 +4,7 @@
 🌱 I’m currently learning Java!
 
 
-⚡ Fun fact: I love to baking and making pottery
+⚡ Fun fact: I love baking and making pottery
 
 📫 How to reach me: 
 - LinkedIn
