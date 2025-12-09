@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 
-🌱 I’m currently learning Java!
+🌱 I’m currently learning Java, SQL, Python, 
 
 
 ⚡ Fun fact: I love baking and making pottery
 
 📫 How to reach me: 
-- LinkedIn
-- dajamiller96@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/dai-miller)
+- [email](dajamiller96@gmail.com)
 <!--
 **dajamiller/DajaMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
