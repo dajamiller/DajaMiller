@@ -1,25 +1,38 @@
-## Hi there 👋
+# Hi there 👋
 
+---
 
-🌱 I’m currently learning Java, SQL, Python, 
+🌱 I'm currently learning **Java, SQL,** and **Python,** focusing on backend application development .
 
+⚡ Fun fact: I love baking and making pottery!
 
-⚡ Fun fact: I love baking and making pottery
+---
 
-📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/dai-miller)
-- [email](dajamiller96@gmail.com)
+## 🛠️ Languages & Tools I Know:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <br>
+  </p>
+
+---
+
+## 💻 Personal Projects:
+Check out my project using [The Cat API](https://thecatapi.com/):
+* [**Ultimate Cat Photo Mood Generator**](https://your-side-project-link-here.com) - *Choose a mood, get a cute cat photo*
+
+---
+
+## 📮 How to Reach Me:
+
+* [**LinkedIn**](https://linkedin.com/in/dai-miller) - Connect with me professionally!
+* [**Email**](dajamiller96@gmail.com) - Send me an email.
+
+---
+
+<p align="center">
+  <img src="
 <!--
 **dajamiller/DajaMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
