@@ -16,13 +16,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <br>
   </p>
-
----
-
-## 💻 Personal Projects:
-Check out my project using [The Cat API](https://thecatapi.com/):
-* [**Ultimate Cat Photo Mood Generator**](https://your-side-project-link-here.com) - *Choose a mood, get a cute cat photo*
-
 ---
 
 ## 📮 How to Reach Me:
