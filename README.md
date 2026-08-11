@@ -2,7 +2,7 @@
 
 ---
 
-🌱 I'm currently learning **Java, SQL,** and **Python,** focusing on backend application development .
+🌱 I'm currently learning **JavaScript** focusing on frontend application development .
 
 ⚡ Fun fact: I love baking and making pottery!
 
