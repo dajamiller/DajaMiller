@@ -2,7 +2,7 @@
 
 ---
 
-🌱 I'm currently learning **JavaScript** focusing on frontend application development .
+🌱 I'm currently learning **JavaScript, React, Data Structures and Algorithms** focusing on frontend application development .
 
 ⚡ Fun fact: I love baking and making pottery!
 
